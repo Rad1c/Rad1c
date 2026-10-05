@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Aleksandar
 
-Software developer from Banja Luka. I build backend systems in .NET, clean frontends in React, and like figuring out how the pieces fit together.
+Software developer from Banja Luka. I make it happen...
 
 ### About me
 
